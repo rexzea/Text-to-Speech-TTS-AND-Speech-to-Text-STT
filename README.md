@@ -145,6 +145,31 @@ with sr.Microphone() as source:
 ## 📄 License
 MIT License
 
-## 📞 Contact
--
+## 📞 Support & Contact
+Need assistance? Reach out through:
+- 📧 Email: [futzfary@gmail.com](mailto:futzfary@gmail.com)
+- 📱 Phone: +62 898-8610-455
+- 💬 GitHub Issues: Open a new issue in the repository
+
+<div align="center">
+
+![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
 ```
+🌟 Crafted with ❤️ by Rexzea 🌟
+```
+</div>
+
+---
+
+<div align="center">
+
+### Show Your Support
+⭐ Star this repository if you find it helpful! ⭐
+
+[Report Bug](https://github.com/rexzea/Text-to-Speech-TTS-AND-Speech-to-Text-STT/issues) · [Request Feature](https://github.com/rexzea/Text-to-Speech-TTS-AND-Speech-to-Text-STT/issues)
+```
+🌟 Made with ❤️ by Rexzea 🌟
+```
+
+</div>
