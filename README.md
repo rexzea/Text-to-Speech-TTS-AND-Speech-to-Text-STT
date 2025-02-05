@@ -96,7 +96,12 @@ SpeechTools/
    git clone https://github.com/rexzea/Text-to-Speech-TTS-AND-Speech-to-Text-STT.git
    ```
 
-2. Install dependencies
+2. Navigate folder
+   ```bash
+   cd Text-to-Speech-TTS-AND-Speech-to-Text-STT
+   ```
+   
+3. Install dependencies
    ```bash
    pip install gtts pyttsx3 SpeechRecognition pyaudio
    ```
