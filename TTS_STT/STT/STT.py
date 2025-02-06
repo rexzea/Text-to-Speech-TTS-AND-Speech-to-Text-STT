@@ -54,7 +54,7 @@ class RexzeaSpeechToText:
             }
             with open(config_path, 'w') as f:
                 json.dump(self.config, f, indent=4)
-
+    
     def record_and_convert(self):
         try:
             with sr.Microphone() as source:
