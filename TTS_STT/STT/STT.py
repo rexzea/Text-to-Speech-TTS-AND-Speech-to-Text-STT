@@ -12,7 +12,7 @@ class RexzeaSpeechToText:
         self.load_config()
         
         self.recognizer.energy_threshold = 3000
-        self.recognizer.dynamic_energy_threshold = True
+        self.recognizer.dynamic_energy_threshold = True   
         self.recognizer.pause_threshold = 1.2
         
     def setup_directories(self):
