@@ -12,7 +12,7 @@ class RexzeaTTS:
         self.setup_output_directory()
         self.engine = pyttsx3.init()
         self.voices = self.setup_engine()
-        
+           
     def setup_output_directory(self):
         self.output_dir.mkdir(exist_ok=True)
         
