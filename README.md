@@ -51,7 +51,7 @@ This tools speech processing toolkit is a solution for converting text to speech
 
 ## 📂 Project Structure
 ```
-SpeechTools/
+Text-to-Speech-TTS-AND-Speech-to-Text-STT
 │
 ├── STT/ (Speech To Text)
 │   ├── save/
