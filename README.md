@@ -161,7 +161,7 @@ Need assistance? Reach out through:
 ![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ```
-🌟 Crafted with ❤️ by Rexzea 🌟
+
 ```
 </div>
 
