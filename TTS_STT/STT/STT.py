@@ -15,7 +15,7 @@ class RexzeaSpeechToText:
         self.recognizer.dynamic_energy_threshold = True   
         self.recognizer.pause_threshold = 1.2
         
-    def setup_directories(self):
+    def setup_directories(self): 
         base_dir = os.path.dirname(os.path.abspath(__file__))
         directories = [
             os.path.join(base_dir, 'save'),
