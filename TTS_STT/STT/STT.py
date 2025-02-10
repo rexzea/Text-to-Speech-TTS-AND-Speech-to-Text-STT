@@ -6,7 +6,7 @@ import logging
 
 class RexzeaSpeechToText:
     def __init__(self):
-        self.setup_directories()
+        self.setup_directories() 
         self.setup_logging()
         self.recognizer = sr.Recognizer()
         self.load_config()
