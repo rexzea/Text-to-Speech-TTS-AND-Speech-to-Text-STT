@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 import platform
 from pathlib import Path
-import time # next updt
+import time # next update
 
 class RexzeaTTS:
     
@@ -11,7 +11,7 @@ class RexzeaTTS:
         self.output_dir = Path("saved_audio")
         self.setup_output_directory()
         self.engine = pyttsx3.init()
-        self.voices = self.setup_engine()
+        self.voices = self.setup_engine() 
            
     def setup_output_directory(self):
         self.output_dir.mkdir(exist_ok=True)
