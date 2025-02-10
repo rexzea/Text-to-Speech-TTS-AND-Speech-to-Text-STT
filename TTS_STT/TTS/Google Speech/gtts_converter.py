@@ -18,7 +18,7 @@ class RexzeaTextToSpeechConverter:
         os.system('cls' if platform.system().lower() == "windows" else 'clear')
         
     def get_timestamp(self):
-        return datetime.now().strftime("%Y%m%d_%H%M%S")
+        return datetime.now().strftime("%Y%m%d_%H%M%S") 
         
     def play_audio(self, filename):
         try:
